@@ -156,6 +156,7 @@ Add the following secrets to your GitHub repository:
 
 ## Note
 - For in depth procedure, go through specific modules  
+- For cleanup run the command:- ```terraform destroy```
 
 
 <!-- ![Alt text](/image.png) -->
