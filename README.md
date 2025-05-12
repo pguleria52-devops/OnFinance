@@ -146,7 +146,7 @@ Add the following secrets to your GitHub repository:
 ```AWS_SECRET_ACCESS_KEY```: Your AWS secret key.
 ```ECR_REPOSITORY_URI```: The URI of your Amazon ECR repository.
 
-## 5. CI/CD Pipeline
+## 5. CI/CD Pipeline 
 - Push changes to the main branch to trigger the GitHub Actions pipeline.
 - The pipeline will:
   - Lint and validate Terraform code.
